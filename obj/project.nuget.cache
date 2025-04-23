@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WjtX2Rk/aW0=",
+  "dgSpecHash": "MNqwMAKt38Q=",
   "success": true,
-  "projectFilePath": "C:\\FERREMAS\\Ferremas.Api\\Ferremas.Api.csproj",
+  "projectFilePath": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Ferremas.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\angel\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",

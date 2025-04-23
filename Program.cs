@@ -11,6 +11,10 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<Ferremas.Api.Repositories.IProductoRepository, Ferremas.Api.Repositories.ProductoRepository>();
 builder.Services.AddScoped<Ferremas.Api.Services.IProductoService, Ferremas.Api.Services.ProductoService>();
 
+// Registrar servicios clieentes
+builder.Services.AddScoped<Ferremas.Api.Repositories.IClienteRepository, Ferremas.Api.Repositories.ClienteRepository>();
+builder.Services.AddScoped<Ferremas.Api.Services.IClienteService, Ferremas.Api.Services.ClienteService>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
