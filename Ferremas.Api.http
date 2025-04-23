@@ -1,0 +1,6 @@
+@Ferremas.Api_HostAddress = http://localhost:5288
+
+GET {{Ferremas.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

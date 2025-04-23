@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FERREMAS\\Ferremas.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\repositories\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:repositories\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\dtos\\productoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:dtos\\productoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\dtos\\productocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:dtos\\productocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\modelos\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:modelos\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\modelos\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:modelos\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\modelos\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:modelos\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductoRepository.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:10:19.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\Services\\IProductoService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductoService.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\Services\\IProductoService.cs",
+              "RelativeToolTip": "Services\\IProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:10:46.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductoService.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\Services\\ProductoService.cs",
+              "RelativeToolTip": "Services\\ProductoService.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAmwH0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:10:57.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T17:21:03.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\Repositories\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductoRepository.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\Repositories\\IProductoRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:10:09.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAmwIsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:11:16.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:32:26.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductoUpdateDTO.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\DTOs\\ProductoUpdateDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProductoUpdateDTO.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\DTOs\\ProductoUpdateDTO.cs",
+              "RelativeToolTip": "DTOs\\ProductoUpdateDTO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:09:38.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductoCreateDTO.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\DTOs\\ProductoCreateDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProductoCreateDTO.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\DTOs\\ProductoCreateDTO.cs",
+              "RelativeToolTip": "DTOs\\ProductoCreateDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:09:24.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\DTOs\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProductoDTO.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\DTOs\\ProductoDTO.cs",
+              "RelativeToolTip": "DTOs\\ProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:09:13.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\Modelos\\Marca.cs",
+              "RelativeDocumentMoniker": "Modelos\\Marca.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\Modelos\\Marca.cs",
+              "RelativeToolTip": "Modelos\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:08:37.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\Modelos\\Categoria.cs",
+              "RelativeDocumentMoniker": "Modelos\\Categoria.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\Modelos\\Categoria.cs",
+              "RelativeToolTip": "Modelos\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:08:25.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\Modelos\\Producto.cs",
+              "RelativeDocumentMoniker": "Modelos\\Producto.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\Modelos\\Producto.cs",
+              "RelativeToolTip": "Modelos\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:08:09.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\Modelos\\Class.cs",
+              "RelativeDocumentMoniker": "Modelos\\Class.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\Modelos\\Class.cs",
+              "RelativeToolTip": "Modelos\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:09:15.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

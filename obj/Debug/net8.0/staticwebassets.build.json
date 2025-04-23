@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "kqlHnQ5mi/aYFxVaaQKvTFmvwE8RL4leqYP+PZgEsfk=",
+  "Source": "Ferremas.Api",
+  "BasePath": "_content/Ferremas.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
