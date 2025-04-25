@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Services"
   ],
-  "SelectedNode": "\\appsettings.json",
+  "SelectedNode": "\\Services\\ClienteService.cs",
   "PreviewInSolutionExplorer": false
 }
