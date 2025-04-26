@@ -12,11 +12,13 @@ namespace Ferremas.Api.Services
     {
         private readonly IPagoRepository _pagoRepository;
         private readonly IPedidoRepository _pedidoRepository;
+        private readonly MercadoPagoService _mercadoPagoService;
 
-        public PagosService(IPagoRepository pagoRepository, IPedidoRepository pedidoRepository)
+        public PagosService(IPagoRepository pagoRepository, IPedidoRepository pedidoRepository, MercadoPagoService mercadoPagoService)
         {
             _pagoRepository = pagoRepository;
             _pedidoRepository = pedidoRepository;
+            _mercadoPagoService = mercadoPagoService;
         }
 
         public async Task<IEnumerable<PagoResponseDTO>> ObtenerTodosAsync()
@@ -47,11 +49,6 @@ namespace Ferremas.Api.Services
             if (pedido == null)
                 throw new KeyNotFoundException($"No se encontró el pedido con ID {pagoCreateDTO.PedidoId}");
 
-            // Verificar que el pedido no haya sido pagado ya
-            var pagosPedido = await _pagoRepository.ObtenerPorPedidoAsync(pagoCreateDTO.PedidoId);
-            if (pagosPedido.Any(p => p.Estado == "COMPLETADO"))
-                throw new InvalidOperationException("El pedido ya ha sido pagado");
-
             // Crear el nuevo pago
             var nuevoPago = new Pago
             {
@@ -63,30 +60,26 @@ namespace Ferremas.Api.Services
                 UrlRetorno = pagoCreateDTO.UrlRetorno
             };
 
-            // Si el método es online (como WebPay), generar token
-            string urlPasarela = null;
-            if (pagoCreateDTO.MetodoPago == "WEBPAY")
-            {
-                // Aquí se integraría con la pasarela de pago
-                // Por ahora, simularemos un token y URL
-                nuevoPago.TokenPasarela = GenerarTokenPasarela();
-                urlPasarela = $"https://webpay.example.com/pay?token={nuevoPago.TokenPasarela}";
-            }
-
-            // Guardar el pago
+            // Guardar el pago inicialmente
             var pagoId = await _pagoRepository.CrearPagoAsync(nuevoPago);
             nuevoPago.Id = pagoId;
 
-            // Si es pago en efectivo o transferencia, marcar como pendiente de confirmación
-            if (pagoCreateDTO.MetodoPago == "EFECTIVO" || pagoCreateDTO.MetodoPago == "TRANSFERENCIA")
-            {
-                // En estos casos, el pago queda pendiente de una confirmación manual
-                await _pedidoRepository.UpdatePedidoEstadoAsync(pedido.Id, "PENDIENTE_PAGO");
-            }
-
-            // Retornar respuesta
+            // Respuesta final
             var respuesta = MapPagoToDTO(nuevoPago);
-            respuesta.UrlPasarela = urlPasarela;
+
+            // Si el método es Mercado Pago, generar preferencia
+            if (pagoCreateDTO.MetodoPago == "MERCADOPAGO")
+            {
+                // Crear preferencia en Mercado Pago
+                var mpResponse = await _mercadoPagoService.CrearPreferenciaPago(pedido, pagoId);
+
+                // Actualizar el pago con los datos de Mercado Pago
+                nuevoPago.TokenPasarela = mpResponse.PreferenceId;
+                await _pagoRepository.ActualizarPagoAsync(nuevoPago);
+
+                // Agregar URL de pago a la respuesta
+                respuesta.UrlPasarela = mpResponse.InitPoint; // o SandboxInitPoint para testing
+            }
 
             return respuesta;
         }
@@ -142,6 +135,7 @@ namespace Ferremas.Api.Services
                 TokenPasarela = pago.TokenPasarela
             };
         }
+    
 
         private string GenerarTokenPasarela()
         {
@@ -149,5 +143,7 @@ namespace Ferremas.Api.Services
             // Para simular, generamos un token aleatorio
             return Guid.NewGuid().ToString("N");
         }
+
+
     }
 }
