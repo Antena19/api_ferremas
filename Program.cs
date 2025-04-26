@@ -11,9 +11,19 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<Ferremas.Api.Repositories.IProductoRepository, Ferremas.Api.Repositories.ProductoRepository>();
 builder.Services.AddScoped<Ferremas.Api.Services.IProductoService, Ferremas.Api.Services.ProductoService>();
 
-// Registrar servicios clieentes
+// Registrar servicios clientes
 builder.Services.AddScoped<Ferremas.Api.Repositories.IClienteRepository, Ferremas.Api.Repositories.ClienteRepository>();
 builder.Services.AddScoped<Ferremas.Api.Services.IClienteService, Ferremas.Api.Services.ClienteService>();
+
+// Registrar servicios de pedidos
+builder.Services.AddScoped<Ferremas.Api.Repositories.IPedidoRepository, Ferremas.Api.Repositories.PedidoRepository>();
+builder.Services.AddScoped<Ferremas.Api.Services.IPedidosService, Ferremas.Api.Services.PedidosService>();
+
+// Registrar servicios de pagos
+builder.Services.AddScoped<Ferremas.Api.Repositories.IPagoRepository, Ferremas.Api.Repositories.PagoRepository>();
+builder.Services.AddScoped<Ferremas.Api.Services.IPagosService, Ferremas.Api.Services.PagosService>();
+
+
 
 var app = builder.Build();
 

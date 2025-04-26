@@ -1,109 +1,177 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\",
+  "WorkspaceRootPath": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\services\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:services\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\services\\pagosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:services\\pagosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\services\\ipagosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:services\\ipagosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\repositories\\pagorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:repositories\\pagorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\dtos\\direccioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:dtos\\direccioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\repositories\\ipagorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:repositories\\ipagorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\dtos\\direcciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:dtos\\direcciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\dtos\\pagocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:dtos\\pagocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\dtos\\clienteupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:dtos\\clienteupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\dtos\\clientecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\dtos\\clientecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:dtos\\clientecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\modelos\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:modelos\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\modelos\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:modelos\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\services\\pedidosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:services\\pedidosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\repositories\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:repositories\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\dtos\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:dtos\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\dtos\\pedidoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:dtos\\pedidoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\dtos\\pedidocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:dtos\\pedidocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\modelos\\pedidoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:modelos\\pedidoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\modelos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:modelos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\services\\ipedidosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:services\\ipedidosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\services\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:services\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\dtos\\direccioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:dtos\\direccioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\dtos\\direcciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:dtos\\direcciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\dtos\\clienteupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:dtos\\clienteupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\modelos\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:modelos\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\repositories\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\repositories\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:repositories\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\dtos\\productoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\dtos\\productoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:dtos\\productoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\dtos\\productocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\dtos\\productocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:dtos\\productocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\modelos\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\modelos\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:modelos\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\modelos\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\modelos\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:modelos\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\users\\alann\\onedrive\\documentos\\code\\angie\\ferremas\\api_ferremas\\modelos\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|c:\\ferremas\\ferremas.api\\api_ferremas\\modelos\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42DD5A17-5667-4E3A-B726-528526AF78A1}|Ferremas.Api.csproj|solutionrelative:modelos\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -114,7 +182,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,23 +210,297 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ClienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Repositories\\ClienteRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ClienteRepository.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Repositories\\ClienteRepository.cs",
-              "RelativeToolTip": "Repositories\\ClienteRepository.cs",
-              "ViewState": "AgIAAHIBAAAAAAAAAAAuwI4BAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "PagosController.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Controllers\\PagosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PagosController.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Controllers\\PagosController.cs",
+              "RelativeToolTip": "Controllers\\PagosController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwF8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T18:42:19.362Z"
+              "WhenOpened": "2025-04-26T18:45:27.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagosService.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Services\\PagosService.cs",
+              "RelativeDocumentMoniker": "Services\\PagosService.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Services\\PagosService.cs",
+              "RelativeToolTip": "Services\\PagosService.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAYwJgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:45:04.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPagosService.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Services\\IPagosService.cs",
+              "RelativeDocumentMoniker": "Services\\IPagosService.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Services\\IPagosService.cs",
+              "RelativeToolTip": "Services\\IPagosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:44:42.833Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "PagoRepository.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Repositories\\PagoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PagoRepository.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Repositories\\PagoRepository.cs",
+              "RelativeToolTip": "Repositories\\PagoRepository.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAYwM4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:44:09.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPagoRepository.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Repositories\\IPagoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IPagoRepository.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Repositories\\IPagoRepository.cs",
+              "RelativeToolTip": "Repositories\\IPagoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:43:47.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PagoCreateDTO.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\PagoCreateDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\PagoCreateDTO.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\PagoCreateDTO.cs",
+              "RelativeToolTip": "DTOs\\PagoCreateDTO.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:43:24.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Modelos\\Pago.cs",
+              "RelativeDocumentMoniker": "Modelos\\Pago.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Modelos\\Pago.cs",
+              "RelativeToolTip": "Modelos\\Pago.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAzwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:51:18.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBcAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:32:26.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Modelos\\Pedido.cs",
+              "RelativeDocumentMoniker": "Modelos\\Pedido.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Modelos\\Pedido.cs",
+              "RelativeToolTip": "Modelos\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:31:36.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PedidoItem.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Modelos\\PedidoItem.cs",
+              "RelativeDocumentMoniker": "Modelos\\PedidoItem.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Modelos\\PedidoItem.cs",
+              "RelativeToolTip": "Modelos\\PedidoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:31:52.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PedidoCreateDTO.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\PedidoCreateDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\PedidoCreateDTO.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\PedidoCreateDTO.cs",
+              "RelativeToolTip": "DTOs\\PedidoCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:32:06.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PedidoUpdateDTO.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\PedidoUpdateDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\PedidoUpdateDTO.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\PedidoUpdateDTO.cs",
+              "RelativeToolTip": "DTOs\\PedidoUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:32:17.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "Repositories\\ClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:42:19.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductoRepository.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductoRepository.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAcwAkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:10:19.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PedidosService.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Services\\PedidosService.cs",
+              "RelativeDocumentMoniker": "Services\\PedidosService.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Services\\PedidosService.cs",
+              "RelativeToolTip": "Services\\PedidosService.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAnwIQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:30:12.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteCreateDTO.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\ClienteCreateDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ClienteCreateDTO.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\ClienteCreateDTO.cs",
+              "RelativeToolTip": "DTOs\\ClienteCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:41:17.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Repositories\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PedidoRepository.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Repositories\\PedidoRepository.cs",
+              "RelativeToolTip": "Repositories\\PedidoRepository.cs",
+              "ViewState": "AgIAAFoBAAAAAAAAAAAgwIABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:30:39.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPedidoRepository.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Repositories\\IPedidoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IPedidoRepository.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Repositories\\IPedidoRepository.cs",
+              "RelativeToolTip": "Repositories\\IPedidoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:40:31.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "Controllers\\PedidosController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAowJEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:31:03.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IPedidosService.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Services\\IPedidosService.cs",
+              "RelativeDocumentMoniker": "Services\\IPedidosService.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Services\\IPedidosService.cs",
+              "RelativeToolTip": "Services\\IPedidosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:30:00.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PedidoDTO.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\PedidoDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\PedidoDTO.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\PedidoDTO.cs",
+              "RelativeToolTip": "DTOs\\PedidoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:32:28.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Services\\IProductoService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductoService.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Services\\IProductoService.cs",
+              "RelativeToolTip": "Services\\IProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:10:46.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "IClienteService.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Services\\IClienteService.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Services\\IClienteService.cs",
               "RelativeDocumentMoniker": "Services\\IClienteService.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Services\\IClienteService.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Services\\IClienteService.cs",
               "RelativeToolTip": "Services\\IClienteService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -166,24 +508,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 22,
               "Title": "ClienteService.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Services\\ClienteService.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Services\\ClienteService.cs",
               "RelativeDocumentMoniker": "Services\\ClienteService.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Services\\ClienteService.cs",
               "RelativeToolTip": "Services\\ClienteService.cs",
-              "ViewState": "AgIAAM4AAAAAAAAAAAAiwMoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T18:42:50.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 26,
               "Title": "DireccionCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\DTOs\\DireccionCreateDTO.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\DireccionCreateDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\DireccionCreateDTO.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\DTOs\\DireccionCreateDTO.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\DireccionCreateDTO.cs",
               "RelativeToolTip": "DTOs\\DireccionCreateDTO.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAwB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -191,23 +533,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IProductoService.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Services\\IProductoService.cs",
-              "RelativeDocumentMoniker": "Services\\IProductoService.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Services\\IProductoService.cs",
-              "RelativeToolTip": "Services\\IProductoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T17:10:46.846Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 25,
               "Title": "IClienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Repositories\\IClienteRepository.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Repositories\\IClienteRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IClienteRepository.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Repositories\\IClienteRepository.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Repositories\\IClienteRepository.cs",
               "RelativeToolTip": "Repositories\\IClienteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -215,11 +545,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 23,
               "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Controllers\\ClientesController.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Controllers\\ClientesController.cs",
               "RelativeToolTip": "Controllers\\ClientesController.cs",
               "ViewState": "AgIAANQAAAAAAAAAAAAAwPAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -227,23 +557,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T17:32:26.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 27,
               "Title": "DireccionDTO.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\DTOs\\DireccionDTO.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\DireccionDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\DireccionDTO.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\DTOs\\DireccionDTO.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\DireccionDTO.cs",
               "RelativeToolTip": "DTOs\\DireccionDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -251,11 +569,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 28,
               "Title": "ClienteUpdateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\DTOs\\ClienteUpdateDTO.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\ClienteUpdateDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\ClienteUpdateDTO.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\DTOs\\ClienteUpdateDTO.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\ClienteUpdateDTO.cs",
               "RelativeToolTip": "DTOs\\ClienteUpdateDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -263,23 +581,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ClienteCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\DTOs\\ClienteCreateDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\ClienteCreateDTO.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\DTOs\\ClienteCreateDTO.cs",
-              "RelativeToolTip": "DTOs\\ClienteCreateDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T18:41:17.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 29,
               "Title": "ClienteDTO.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\DTOs\\ClienteDTO.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\ClienteDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\ClienteDTO.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\DTOs\\ClienteDTO.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\ClienteDTO.cs",
               "RelativeToolTip": "DTOs\\ClienteDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -287,11 +593,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 30,
               "Title": "Direccion.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Modelos\\Direccion.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Modelos\\Direccion.cs",
               "RelativeDocumentMoniker": "Modelos\\Direccion.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Modelos\\Direccion.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Modelos\\Direccion.cs",
               "RelativeToolTip": "Modelos\\Direccion.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAwCUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -299,11 +605,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 31,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Modelos\\Cliente.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Modelos\\Cliente.cs",
               "RelativeDocumentMoniker": "Modelos\\Cliente.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Modelos\\Cliente.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Modelos\\Cliente.cs",
               "RelativeToolTip": "Modelos\\Cliente.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAAwDMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -311,23 +617,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ProductoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Repositories\\ProductoRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ProductoRepository.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Repositories\\ProductoRepository.cs",
-              "RelativeToolTip": "Repositories\\ProductoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T17:10:19.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 34,
               "Title": "ProductoService.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Services\\ProductoService.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Services\\ProductoService.cs",
               "RelativeDocumentMoniker": "Services\\ProductoService.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Services\\ProductoService.cs",
               "RelativeToolTip": "Services\\ProductoService.cs",
               "ViewState": "AgIAAGQAAAAAAAAAAAAmwH0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -335,11 +629,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 32,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\appsettings.json",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\appsettings.json",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -347,11 +641,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 35,
               "Title": "IProductoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Repositories\\IProductoRepository.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Repositories\\IProductoRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IProductoRepository.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Repositories\\IProductoRepository.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Repositories\\IProductoRepository.cs",
               "RelativeToolTip": "Repositories\\IProductoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -359,11 +653,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 33,
               "Title": "ProductosController.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Controllers\\ProductosController.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Controllers\\ProductosController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductosController.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Controllers\\ProductosController.cs",
               "RelativeToolTip": "Controllers\\ProductosController.cs",
               "ViewState": "AgIAAHIAAAAAAAAAAAAmwIsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -371,11 +665,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 36,
               "Title": "ProductoUpdateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\DTOs\\ProductoUpdateDTO.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\ProductoUpdateDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\ProductoUpdateDTO.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\DTOs\\ProductoUpdateDTO.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\ProductoUpdateDTO.cs",
               "RelativeToolTip": "DTOs\\ProductoUpdateDTO.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAmwBoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -383,11 +677,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 37,
               "Title": "ProductoCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\DTOs\\ProductoCreateDTO.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\ProductoCreateDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\ProductoCreateDTO.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\DTOs\\ProductoCreateDTO.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\ProductoCreateDTO.cs",
               "RelativeToolTip": "DTOs\\ProductoCreateDTO.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAmwBwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -395,11 +689,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 38,
               "Title": "ProductoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\DTOs\\ProductoDTO.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\ProductoDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\ProductoDTO.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\DTOs\\ProductoDTO.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\DTOs\\ProductoDTO.cs",
               "RelativeToolTip": "DTOs\\ProductoDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -407,11 +701,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 39,
               "Title": "Marca.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Modelos\\Marca.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Modelos\\Marca.cs",
               "RelativeDocumentMoniker": "Modelos\\Marca.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Modelos\\Marca.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Modelos\\Marca.cs",
               "RelativeToolTip": "Modelos\\Marca.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -419,11 +713,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 40,
               "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Modelos\\Categoria.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Modelos\\Categoria.cs",
               "RelativeDocumentMoniker": "Modelos\\Categoria.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Modelos\\Categoria.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Modelos\\Categoria.cs",
               "RelativeToolTip": "Modelos\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -431,11 +725,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 41,
               "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Modelos\\Producto.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Modelos\\Producto.cs",
               "RelativeDocumentMoniker": "Modelos\\Producto.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Modelos\\Producto.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Modelos\\Producto.cs",
               "RelativeToolTip": "Modelos\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -443,11 +737,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 42,
               "Title": "Class.cs",
-              "DocumentMoniker": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Modelos\\Class.cs",
+              "DocumentMoniker": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Modelos\\Class.cs",
               "RelativeDocumentMoniker": "Modelos\\Class.cs",
-              "ToolTip": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Modelos\\Class.cs",
+              "ToolTip": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Modelos\\Class.cs",
               "RelativeToolTip": "Modelos\\Class.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
