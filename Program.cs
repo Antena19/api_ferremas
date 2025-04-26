@@ -22,6 +22,7 @@ builder.Services.AddScoped<Ferremas.Api.Services.IPedidosService, Ferremas.Api.S
 // Registrar servicios de pagos
 builder.Services.AddScoped<Ferremas.Api.Repositories.IPagoRepository, Ferremas.Api.Repositories.PagoRepository>();
 builder.Services.AddScoped<Ferremas.Api.Services.IPagosService, Ferremas.Api.Services.PagosService>();
+builder.Services.AddScoped<Ferremas.Api.Services.MercadoPagoService>();
 
 
 

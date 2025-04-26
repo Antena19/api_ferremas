@@ -174,3 +174,5 @@ C:\Users\alann\OneDrive\Documentos\code\Angie\Ferremas\api_ferremas\obj\Debug\ne
 C:\Users\alann\OneDrive\Documentos\code\Angie\Ferremas\api_ferremas\obj\Debug\net8.0\Ferremas.Api.pdb
 C:\Users\alann\OneDrive\Documentos\code\Angie\Ferremas\api_ferremas\obj\Debug\net8.0\Ferremas.Api.genruntimeconfig.cache
 C:\Users\alann\OneDrive\Documentos\code\Angie\Ferremas\api_ferremas\obj\Debug\net8.0\ref\Ferremas.Api.dll
+C:\FERREMAS\Ferremas.Api\api_ferremas\bin\Debug\net8.0\MercadoPago.dll
+C:\FERREMAS\Ferremas.Api\api_ferremas\bin\Debug\net8.0\Newtonsoft.Json.dll

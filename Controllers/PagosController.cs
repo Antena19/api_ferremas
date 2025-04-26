@@ -19,6 +19,8 @@ namespace Ferremas.Api.Controllers
             _pagosService = pagosService;
         }
 
+
+
         [HttpGet]
         [ProducesResponseType(StatusCodes.Status200OK)]
         public async Task<ActionResult<IEnumerable<PagoResponseDTO>>> ObtenerPagos()
@@ -58,17 +60,9 @@ namespace Ferremas.Api.Controllers
                 var nuevoPago = await _pagosService.CrearPagoAsync(pagoCreateDTO);
                 return CreatedAtAction(nameof(ObtenerPago), new { id = nuevoPago.Id }, nuevoPago);
             }
-            catch (KeyNotFoundException ex)
-            {
-                return NotFound(ex.Message);
-            }
-            catch (InvalidOperationException ex)
-            {
-                return BadRequest(ex.Message);
-            }
             catch (Exception ex)
             {
-                return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
+                return BadRequest(ex.Message);
             }
         }
 
