@@ -2153,23 +2153,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\angel\\.nuget\\packages\\": {},
+    "C:\\Users\\alann\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Ferremas.Api.csproj",
+      "projectUniqueName": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Ferremas.Api.csproj",
       "projectName": "Ferremas.Api",
-      "projectPath": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\Ferremas.Api.csproj",
-      "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-      "outputPath": "C:\\FERREMAS\\Ferremas.Api\\api_ferremas\\obj\\",
+      "projectPath": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\Ferremas.Api.csproj",
+      "packagesPath": "C:\\Users\\alann\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alann\\OneDrive\\Documentos\\code\\Angie\\Ferremas\\api_ferremas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alann\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2178,7 +2178,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
